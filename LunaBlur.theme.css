@@ -12,7 +12,7 @@
 
 /* User Variables */
 :root {
-  --app-bg: url(https://i.imgur.com/5GWDr5Q.jpeg);
+  --app-bg: url(http://heurepika.com/body_bg.png);
   --background-primary: rgba(0, 0, 0, 0.3);
   --background-secondary: rgba(15, 19, 20, 0.3);
   --background-tertiary: rgba(15, 19, 20, 0.4);
@@ -81,4 +81,18 @@
 
 .form-3gdLxP:before {
   background: transparent !important;
+}
+
+.chat-2ZfjoI, 
+.wrapper-1_HaEi,
+.sidebar-1tnWFu {
+  backdrop-filter: blur(30px);
+}
+
+.quickswitcher-pKcM9U {
+    backdrop-filter: blur(60px);
+}
+
+.backdrop-2ByYRN {
+  opacity: 0.7 !important;
 }
