@@ -29,6 +29,11 @@
 /* Override Message TextField Styling */
 .scrollableContainer-15eg7h {
   background-color: transparent;
+  border-radius: 0;
+}
+
+.channelTextArea-1VQBuV {
+  border-radius: 30px;
 }
 
 /* Override Emoji Autocomplete Styling */
