@@ -67,3 +67,7 @@
 .theme-dark {
     --background-secondary: rgba(15, 19, 20, 0.3);
 }
+
+.form-3gdLxP:before {
+  background: none !important;
+}
