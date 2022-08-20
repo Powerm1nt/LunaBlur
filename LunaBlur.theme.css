@@ -28,7 +28,7 @@
 
 /* Override Message TextField Styling */
 .scrollableContainer-15eg7h {
-  background-color: none;
+  background-color: transparent;
 }
 
 /* Override Emoji Autocomplete Styling */
@@ -69,5 +69,5 @@
 }
 
 .form-3gdLxP:before {
-  background: none !important;
+  background: transparent !important;
 }
