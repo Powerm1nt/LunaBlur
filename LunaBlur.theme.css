@@ -68,6 +68,10 @@
   backdrop-filter: blur(30px);
 }
 
+.item-3XjbnG {
+  border-radius: 30px !important;
+}
+
 .container-1eFtFS, .content-1SgpWY {
   gap: 0.6em;
 }
