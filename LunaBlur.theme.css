@@ -58,9 +58,14 @@
 .wrapper-1_HaEi, 
 .sidebar-1tnWFu,
 .applicationStore-2nk7Lo, 
-.chat-2ZfjoI, 
+.chat-2ZfjoI,
+.layers-OrUESM,
 .container-2cd8Mz {
   border-radius: 15px !important;
+}
+
+.layers-OrUESM {
+  backdrop-filter: blur(30px);
 }
 
 .container-1eFtFS, .content-1SgpWY {
