@@ -82,7 +82,7 @@
 }
 
 .theme-dark {
-    --background-secondary: rgba(15, 19, 20, 0.3);
+  --background-secondary: rgba(15, 19, 20, 0.3);
 }
 
 .theme-dark .children-3xh0VB:after {
@@ -119,4 +119,10 @@
 
 .userPopout-2j1gM4 {
   border-radius: 15px;
+}
+
+.menu-1QACrS {
+  backdrop-filter: blur(50px);
+  background: var(--background-primary);
+  border-radius: 10px;
 }
